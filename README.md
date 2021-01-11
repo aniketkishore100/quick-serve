@@ -2,6 +2,9 @@
 
 Quickly build inference engines from jupyter notebooks and deploy on web and edge in 3 lines of code
 
+## Demo Video:
+[Link to Demo Video](https://youtu.be/K-rTLp5RrQQ)
+
 ## Notes regarding getting started
 
 * Please check requirements.txt for list of dependencies. Install scripts will be added later.
